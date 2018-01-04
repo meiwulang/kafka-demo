@@ -8,3 +8,7 @@ advertised.host.name=192.168.1.156
 host.name=192.168.1.156
 #支持删除主题
 delete.topic.enable=true
+
+项目中
+KafkaConsumerConfig KafkaProducerConfig 这两个文件暂时没有任何用处
+
