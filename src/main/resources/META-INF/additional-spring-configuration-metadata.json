@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.kafka.consumer.key-serializer",
+    "type": "org.apache.kafka.common.serialization.Serializer",
+    "description": "序列化实例"
+  },
+  {
+    "name": "spring.kafka.consumer.value-serializer",
+    "type": "org.apache.kafka.common.serialization.Serializer",
+    "description": "反序列化实例'"
+  }
+]}
